@@ -1,0 +1,7 @@
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\CoxEnterprisesPreInterview\bin\Debug\CoxEnterprisesPreInterview.dll
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\CoxEnterprisesPreInterview\bin\Debug\CoxEnterprisesPreInterview.pdb
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\CoxEnterprisesPreInterview\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\CoxEnterprisesPreInterview\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\CoxEnterprisesPreInterview\obj\Debug\CoxEnterprisesPreInterview.dll
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\CoxEnterprisesPreInterview\obj\Debug\CoxEnterprisesPreInterview.pdb
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\CoxEnterprisesPreInterview\obj\Debug\CoxEnterprisesPreInterview.csprojResolveAssemblyReference.cache

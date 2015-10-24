@@ -1,0 +1,6 @@
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\WordTransformer\bin\Debug\WordTransformer.exe.config
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\WordTransformer\bin\Debug\WordTransformer.exe
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\WordTransformer\bin\Debug\WordTransformer.pdb
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\WordTransformer\obj\Debug\WordTransformer.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\WordTransformer\obj\Debug\WordTransformer.exe
+c:\users\brett\documents\visual studio 2015\Projects\CoxEnterprisesPreInterview\WordTransformer\obj\Debug\WordTransformer.pdb
